@@ -1,0 +1,14 @@
+D:\College\SEM-2\Programming-3\AksheshAssignment4b\BaseFormLibrary\InheritedForm\bin\Debug\InheritedForm.exe.config
+D:\College\SEM-2\Programming-3\AksheshAssignment4b\BaseFormLibrary\InheritedForm\bin\Debug\InheritedForm.exe
+D:\College\SEM-2\Programming-3\AksheshAssignment4b\BaseFormLibrary\InheritedForm\bin\Debug\InheritedForm.pdb
+D:\College\SEM-2\Programming-3\AksheshAssignment4b\BaseFormLibrary\InheritedForm\bin\Debug\BaseFormLibrary.dll
+D:\College\SEM-2\Programming-3\AksheshAssignment4b\BaseFormLibrary\InheritedForm\bin\Debug\BaseFormLibrary.pdb
+D:\College\SEM-2\Programming-3\AksheshAssignment4b\BaseFormLibrary\InheritedForm\bin\Debug\BaseFormLibrary.dll.config
+D:\College\SEM-2\Programming-3\AksheshAssignment4b\BaseFormLibrary\InheritedForm\obj\Debug\InheritedForm.csprojAssemblyReference.cache
+D:\College\SEM-2\Programming-3\AksheshAssignment4b\BaseFormLibrary\InheritedForm\obj\Debug\InheritedForm.Form2.resources
+D:\College\SEM-2\Programming-3\AksheshAssignment4b\BaseFormLibrary\InheritedForm\obj\Debug\InheritedForm.Properties.Resources.resources
+D:\College\SEM-2\Programming-3\AksheshAssignment4b\BaseFormLibrary\InheritedForm\obj\Debug\InheritedForm.csproj.GenerateResource.cache
+D:\College\SEM-2\Programming-3\AksheshAssignment4b\BaseFormLibrary\InheritedForm\obj\Debug\InheritedForm.csproj.CoreCompileInputs.cache
+D:\College\SEM-2\Programming-3\AksheshAssignment4b\BaseFormLibrary\InheritedForm\obj\Debug\InheritedForm.csproj.CopyComplete
+D:\College\SEM-2\Programming-3\AksheshAssignment4b\BaseFormLibrary\InheritedForm\obj\Debug\InheritedForm.exe
+D:\College\SEM-2\Programming-3\AksheshAssignment4b\BaseFormLibrary\InheritedForm\obj\Debug\InheritedForm.pdb

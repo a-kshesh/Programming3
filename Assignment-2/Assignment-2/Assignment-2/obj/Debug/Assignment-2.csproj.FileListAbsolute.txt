@@ -1,0 +1,7 @@
+D:\College\SEM-2\Programming-3\Assignment-2\Assignment-2\Assignment-2\bin\Debug\Assignment-2.exe.config
+D:\College\SEM-2\Programming-3\Assignment-2\Assignment-2\Assignment-2\bin\Debug\Assignment-2.exe
+D:\College\SEM-2\Programming-3\Assignment-2\Assignment-2\Assignment-2\bin\Debug\Assignment-2.pdb
+D:\College\SEM-2\Programming-3\Assignment-2\Assignment-2\Assignment-2\obj\Debug\Assignment-2.csprojAssemblyReference.cache
+D:\College\SEM-2\Programming-3\Assignment-2\Assignment-2\Assignment-2\obj\Debug\Assignment-2.csproj.CoreCompileInputs.cache
+D:\College\SEM-2\Programming-3\Assignment-2\Assignment-2\Assignment-2\obj\Debug\Assignment-2.exe
+D:\College\SEM-2\Programming-3\Assignment-2\Assignment-2\Assignment-2\obj\Debug\Assignment-2.pdb
